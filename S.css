@@ -9,15 +9,35 @@ html, body{
     width: 100%;
     margin-top: 199px;
 }
-#BTNT{
-    color: #2F496E;
+#DFV{
+    background-color: #ED8C72;
+    height: 100%;
+    width: 70px;
+    margin-top: -1100px;
 }
-/*#212F3C
-#41a733
-#48C9B0*/
+#DE1{
+    background-color: #ED8C72;
+    height: 70px;
+    width: 250px;
+    margin-top: 403px;
+}
+#DE2{
+    background-color: #ED8C72;
+    height: 70px;
+    width: 700px;
+    margin-top: -627px;
+    margin-left: 625px;
+}
 body{
     background-color: #F4EADE;
     font-family: sans-serif;
+}
+.A{
+    text-decoration: none;
+    color: #2F496E;
+    font-size: 27px;
+    margin-left: 1150px;
+    font-weight: bold;
 }
 /*Principal*/
 .DH{
@@ -57,12 +77,6 @@ body{
 }
 
 /*Acerca de*/
-.AA{
-    text-decoration: none;
-    color: #2F496E;
-    font-size: 23px;
-    margin-left: 1150px;
-}
 .H3A{
     color: #2F496E;
     margin-left: 200px;
@@ -89,12 +103,6 @@ body{
 }
 
 /*Experiencia*/
-.AE{
-    text-decoration: none;
-    color: #2F496E;
-    font-size: 23px;
-    margin-left: 1150px;
-}
 .HE{
     color: #2F496E;
     font-size: 22px;
@@ -125,12 +133,6 @@ ul{
 }
 
 /*Trabajos*/
-.AW{
-    text-decoration: none;
-    color: #2F496E;
-    font-size: 23px;
-    margin-left: 1150px;
-}
 .HW{
     color: #2F496E;
     font-size: 22px;
@@ -162,12 +164,6 @@ ul{
 }
 
 /*Contatcto*/
-#AC{
-    text-decoration: none;
-    color: #2F496E;
-    font-size: 23px;
-    margin-left: 1150px;
-}
 #HC{
     color: #2F496E;
     font-size: 22px;
