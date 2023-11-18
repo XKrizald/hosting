@@ -24,7 +24,7 @@ html, body{
 }
 #DE2{
     background-color: #ED8C72;
-    height: 50px;
+    height: 40px;
     width: 700px;
     margin-top: -629px;
     margin-left: 625px;
@@ -36,7 +36,7 @@ body{
 .A{
     text-decoration: none;
     color: #2F496E;
-    font-size: 28px;
+    font-size: 30px;
     margin-left: 1150px;
     font-weight: bold;
 }
